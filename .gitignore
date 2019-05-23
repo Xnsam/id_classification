@@ -2,4 +2,4 @@ secret*.py
 __pycache__/*
 id_data/*
 *.zip
-off.ipynb
+off*.ipynb
