@@ -18,3 +18,6 @@ Trials
 ![Screenshot](download_2.png)
 
 ![Screenshot](download_3.png)
+
+
+Validation loss is all over the place :-| 
