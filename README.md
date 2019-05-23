@@ -13,8 +13,8 @@ Model 2
 Trials
 --------------------------------------
 
-![Screenshot](download1.png)
+![Screenshot](download_1.png)
 
-![Screenshot](download2.png)
+![Screenshot](download_2.png)
 
-![Screenshot](download3.png)
+![Screenshot](download_3.png)
